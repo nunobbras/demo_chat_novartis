@@ -76,6 +76,15 @@ with st.sidebar:
         - What Tropical Diseases is Novartis worried with?
     """
     )
+    st.text(
+        """
+        Contact DareData Engineering
+        contact@daredata.engineering
+
+    """
+    )
+
+
 
 rebuild_model()
 

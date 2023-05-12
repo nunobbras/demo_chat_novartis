@@ -72,5 +72,5 @@ yarl==1.9.2
 zipp==3.15.0
 streamlit
 pillow
-llama-index==0.4.37
+llama-index==0.5.27
 streamlit_chat==0.0.2.2
